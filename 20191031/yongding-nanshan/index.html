@@ -102,7 +102,15 @@
 
 
 <ul>
-    <li><div class="all active">全部文章<small>(1)</small></div></li>
+    <li><div class="all active">全部文章<small>(2)</small></div></li>
+    
+        
+            
+            <li><div data-rel="有声绘本">有声绘本<small>(1)</small></div>
+                
+            </li>
+            
+        
     
         
             
@@ -122,8 +130,8 @@
     </div>
     <div><a class="about  hasFriend  site_url"  href="/about">关于</a><a style="width: 50%"  class="friends">友链</a></div>
 </div>
-<input type="hidden" id="yelog_site_posts_number" value="1">
-<input type="hidden" id="yelog_site_word_count" value="45">
+<input type="hidden" id="yelog_site_posts_number" value="2">
+<input type="hidden" id="yelog_site_word_count" value="202">
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
     <span id="busuanzi_value_site_pv"></span>
@@ -157,6 +165,10 @@
     <div class="tags-list">
     
     <li class="article-tag-list-item">
+        <a href="javascript:" class="color5">有声绘本</a>
+    </li>
+    
+    <li class="article-tag-list-item">
         <a href="javascript:" class="color3">永定</a>
     </li>
     
@@ -166,6 +178,10 @@
     
     <li class="article-tag-list-item">
         <a href="javascript:" class="color4">宣传片</a>
+    </li>
+    
+    <li class="article-tag-list-item">
+        <a href="javascript:" class="color3">绘本</a>
     </li>
     
     <div class="clearfix"></div>
@@ -180,6 +196,14 @@
            data-author="" >
             <span class="post-title" title="《永定南山凤凰城环山彩虹乐跑赛》宣传片">《永定南山凤凰城环山彩虹乐跑赛》宣传片</span>
             <span class="post-date" title="2019-10-31 10:23:37">2019/10/31</span>
+        </a>
+        
+        <a  class="有声绘本 "
+           href="/20191031/Uncle-Jed-s-Barber-Shop/"
+           data-tag="有声绘本,绘本"
+           data-author="" >
+            <span class="post-title" title="《杰德爷爷的理发店》有声绘本故事">《杰德爷爷的理发店》有声绘本故事</span>
+            <span class="post-date" title="2019-10-31 16:46:54">2019/10/31</span>
         </a>
         
     </nav>
@@ -358,7 +382,7 @@
     /*作者、标签的自动补全*/
     $(function () {
         $('.search').AutoComplete({
-            'data': ['#永定','#南山凤凰城','#宣传片',],
+            'data': ['#有声绘本','#永定','#南山凤凰城','#宣传片','#绘本',],
             'itemHeight': 20,
             'width': 418
         }).AutoComplete('show');
