@@ -1810,6 +1810,21 @@ img.pswp__img {
 .mobile-menus .dynamic-menu:nth-child(1) {
   margin-top: 0;
 }
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.video iframe,
+.video object,
+.video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 @media screen and (max-width: 1468px) {
   html,
   body {
