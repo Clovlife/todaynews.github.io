@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.clovlife.com/"/>
-  <updated>2019-11-02T07:00:34.603Z</updated>
+  <updated>2019-11-02T07:15:14.082Z</updated>
   <id>http://www.clovlife.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>上入右出三段扁平文字Mogrt</title>
+    <link href="http://www.clovlife.com/20191102/mogrt-00001/"/>
+    <id>http://www.clovlife.com/20191102/mogrt-00001/</id>
+    <published>2019-11-02T07:13:51.000Z</published>
+    <updated>2019-11-02T07:15:14.082Z</updated>
+    
+    <content type="html"><![CDATA[<p>这次带来的是扁平文字的动态标题Mogrt模板。<br>这款插件是扁平文字效果。可以调整文字颜色，文字字体样式（包含大小、格式、选择字体）。Mogrt默认分辨率为:4K。</p><p><img src="/images/2019/11/02/cea18690-fd3f-11e9-b428-2d2ab7592b0c.jpg" alt="Mogrt插件最终效果"><br><img src="/images/2019/11/02/e82d9860-fd3f-11e9-b428-2d2ab7592b0c.gif" alt="Mogrt插件GIF演示"></p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p>点击这里 》》 <a href="https://tc5.us/file/16392555-405053268" target="_blank" rel="noopener">免费下载</a><br>免费下载，唯一要求是在下方视频中寻找解压密码。</p><blockquote><p>密码完全为数字，因字体原因，可能显示会像英文。</p></blockquote><h1 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h1><h2 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h2><p class="video"><iframe src="https://www.youtube.com/embed/mOGjayZ9jUk" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>## 哔哩哔哩<p class="video"><iframe src="//player.bilibili.com/player.html?aid=74163460&cid=126873576&page=1" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>## 腾讯<p class="video"><iframe src="https://v.qq.com/txp/iframe/player.html?vid=w301643t7z2" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这次带来的是扁平文字的动态标题Mogrt模板。&lt;br&gt;这款插件是扁平文字效果。可以调整文字颜色，文字字体样式（包含大小、格式、选择字体）。Mogrt默认分辨率为:4K。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2019/11/02/cea18690-fd3f-11
+      
+    
+    </summary>
+    
+    
+      <category term="PR插件" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="Mogrt" scheme="http://www.clovlife.com/categories/PR%E6%8F%92%E4%BB%B6/Mogrt/"/>
+    
+    
+      <category term="Mogrt" scheme="http://www.clovlife.com/tags/Mogrt/"/>
+    
+      <category term="插件" scheme="http://www.clovlife.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="模板" scheme="http://www.clovlife.com/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+      <category term="扁平文字" scheme="http://www.clovlife.com/tags/%E6%89%81%E5%B9%B3%E6%96%87%E5%AD%97/"/>
+    
+  </entry>
   
   <entry>
     <title>Adobe Premiere字体没有正确显示中文名称的处理方式</title>
