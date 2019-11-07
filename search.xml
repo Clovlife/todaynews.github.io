@@ -77,8 +77,8 @@
     
     <entry>
       <title>在Adobe Premiere中Mogrt如何使用？</title>
-      <link href="/20191101/Mogrt-Use/"/>
-      <url>/20191101/Mogrt-Use/</url>
+      <link href="/20191101/Mogrt-use/"/>
+      <url>/20191101/Mogrt-use/</url>
       
         <content type="html"><![CDATA[<blockquote><p>在视频编辑中，我们经常需要添加动态字幕。这时候如果有一个模板，那么处理起来的速度很多。不少软件也因此应运而生。</p></blockquote><ul><li>其实如果你使用的软件是Adobe Premiere，那么就算是没有第三方软件，也可以快速的构建动态字幕。</li></ul><h1 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h1><ol><li>一台电脑</li><li>一个操作系统</li><li>一个Adobe Premiere非线性编辑软件</li><li>Mogrt基本图形模板文件</li></ol><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="第一步：打开PR创建工程"><a href="#第一步：打开PR创建工程" class="headerlink" title="第一步：打开PR创建工程"></a>第一步：打开PR创建工程</h2><p>这一步不再赘述</p><h2 id="第二步：打开基本图形界面"><a href="#第二步：打开基本图形界面" class="headerlink" title="第二步：打开基本图形界面"></a>第二步：打开基本图形界面</h2><p>在PR菜单中，找到基本图形，点选后可以打开基本图形界面。</p><p><img src="/images/2019/11/01/37b8a8e0-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形界面打开"></p><h2 id="第三步：导入Mogrt基本图形"><a href="#第三步：导入Mogrt基本图形" class="headerlink" title="第三步：导入Mogrt基本图形"></a>第三步：导入Mogrt基本图形</h2><p>Mogrt基本图形的界面是这样的：</p><p><img src="/images/2019/11/01/5e1c1530-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形界面"></p><p>我们只要点击右下角的符号添加，就可以进行导入。</p><p><img src="/images/2019/11/01/6da214f0-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt导入图标"></p><p>导入完成后，在“浏览”栏中就会出现我们导入的Mogrt基本图形。</p><p><img src="/images/2019/11/01/dfdffe10-fc76-11e9-b1a0-07a5067f3d70.png" alt="Mogrt导入位置"></p><h2 id="第四步：添加Mogrt基本图形"><a href="#第四步：添加Mogrt基本图形" class="headerlink" title="第四步：添加Mogrt基本图形"></a>第四步：添加Mogrt基本图形</h2><p>Mogrt基本图形的添加方式十分简单，只要选中所需Mogrt，拖入到时间中相应的<strong>视频轨道</strong>即可。</p><h2 id="第五步：修改文字"><a href="#第五步：修改文字" class="headerlink" title="第五步：修改文字"></a>第五步：修改文字</h2><p>Mogrt基本图形都有自带内容，我们在添加好Mogrt后，需要对这些内容进行修改。<br>我们在时间线上点击我们的添加的Mogrt，一般显示为粉色!<br><img src="/images/2019/11/01/54ae07f0-fc77-11e9-b1a0-07a5067f3d70.png" alt="Mogrt在时间线上"><br>选中之后，基本图形属性一栏会自动跳转到编辑选项。我们只要对相应的文字、文字颜色、字体样式，文字属性、线框颜色进行调整就可以了。<br><img src="/images/2019/11/01/a306f240-fc77-11e9-b1a0-07a5067f3d70.png" alt="Mogrt基本图形修改属性"></p><blockquote><p>不少Mogrt发布者在发布时没有加上文本属性，所以字体、文字样式、文字大小都是不可以修改的。</p></blockquote>]]></content>
       
@@ -94,10 +94,6 @@
       
         <tags>
             
-            <tag> Mogrt </tag>
-            
-            <tag> 基本图形 </tag>
-            
             <tag> Premiere </tag>
             
             <tag> PR </tag>
@@ -105,6 +101,10 @@
             <tag> Adobe Premiere </tag>
             
             <tag> Adobe </tag>
+            
+            <tag> Mogrt </tag>
+            
+            <tag> 基本图形 </tag>
             
         </tags>
       
