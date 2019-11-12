@@ -44,9 +44,9 @@
     
       <category term="绘本" scheme="http://gs.clovlife.com/tags/%E7%BB%98%E6%9C%AC/"/>
     
-      <category term="小班" scheme="http://gs.clovlife.com/tags/%E5%B0%8F%E7%8F%AD/"/>
-    
       <category term="中班" scheme="http://gs.clovlife.com/tags/%E4%B8%AD%E7%8F%AD/"/>
+    
+      <category term="小班" scheme="http://gs.clovlife.com/tags/%E5%B0%8F%E7%8F%AD/"/>
     
       <category term="大卫·香农" scheme="http://gs.clovlife.com/tags/%E5%A4%A7%E5%8D%AB%C2%B7%E9%A6%99%E5%86%9C/"/>
     
@@ -159,11 +159,11 @@
     
       <category term="绘本" scheme="http://gs.clovlife.com/tags/%E7%BB%98%E6%9C%AC/"/>
     
+      <category term="中班" scheme="http://gs.clovlife.com/tags/%E4%B8%AD%E7%8F%AD/"/>
+    
       <category term="小班" scheme="http://gs.clovlife.com/tags/%E5%B0%8F%E7%8F%AD/"/>
     
       <category term="晓婷" scheme="http://gs.clovlife.com/tags/%E6%99%93%E5%A9%B7/"/>
-    
-      <category term="中班" scheme="http://gs.clovlife.com/tags/%E4%B8%AD%E7%8F%AD/"/>
     
   </entry>
   
