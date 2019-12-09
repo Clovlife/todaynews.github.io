@@ -1186,7 +1186,8 @@ article .article-tags .chip {
 }
 
 #articleContent img {
-    max-width: 500px;
+    max-width: 100%;
+    width: 500px;
     height: auto;
     cursor: pointer;
 }
