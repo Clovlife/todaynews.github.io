@@ -145,8 +145,6 @@
             
             <tag> 鸡蛋 </tag>
             
-            <tag> 黄瓜 </tag>
-            
             <tag> 牡蛎 </tag>
             
             <tag> 面粉 </tag>
@@ -154,6 +152,8 @@
             <tag> 圆白菜 </tag>
             
             <tag> 小食 </tag>
+            
+            <tag> 黄瓜 </tag>
             
             <tag> 日本辣酱油 </tag>
             
@@ -188,13 +188,11 @@
       
         <tags>
             
-            <tag> 鸡蛋 </tag>
-            
-            <tag> 主食 </tag>
-            
             <tag> 意大利面 </tag>
             
             <tag> 欧姆蛋 </tag>
+            
+            <tag> 鸡蛋 </tag>
             
             <tag> 芝士粉 </tag>
             
@@ -203,6 +201,8 @@
             <tag> 洋葱 </tag>
             
             <tag> 巴西里末 </tag>
+            
+            <tag> 主食 </tag>
             
             <tag> 面食 </tag>
             
